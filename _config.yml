@@ -87,10 +87,10 @@ donation:
   items:
     - type: 微信
       text: 微信扫一扫
-      imgUrl: /images/qr-wechat.png
+      imgUrl: /images/Wechat.png
     - type: 支付宝
       text: 支付宝扫一扫
-      imgUrl: /images/qr-alipay.png
+      imgUrl: /images/Alipay.jpeg
 
 
 
