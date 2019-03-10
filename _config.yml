@@ -210,7 +210,8 @@ about:
   - type: mail
     icon: icon-mail
     text_key: Gmail
-    text_value: "mailto:Orangemtony@gmail.com"
+    text_value: "orangemtony@gmail.com"
+    text_value_url: mailto:orangemtony@gmail.com
   - type: location
     icon: icon-location
     text_value: 北京
