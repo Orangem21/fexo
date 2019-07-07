@@ -148,8 +148,8 @@ gitalk:
   clientID: 87c8c720b879c7a4bc58
   clientSecret: 25acd078be5aebb20cd217cdb7467b81a2951d43
   repo: blog-comment
-  owner: orangem21
-  admin: orangem21
+  owner: orangemio
+  admin: orangemio
 
 
 # gitment comment service
