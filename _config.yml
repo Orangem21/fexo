@@ -67,7 +67,7 @@ search_slogan:
 
 link_slogan:
   isShow: true # true|fase
-  text: 交换友链可以邮件 orangemtony@gmail.com
+  text: 交换友链可以邮件 i@orangem.io
 
 
 # set backtop show or hide
@@ -81,7 +81,7 @@ backtop:
   about: false
 
 donation:
-  show: true
+  show: false
   btn_text: 支持一下
   tip: 扫一扫，支持Orange
   items:
@@ -200,8 +200,8 @@ about:
   - type: Github
     icon: icon-github
     text_key: Github
-    text_value: "@orangem21"
-    text_value_url: https://github.com/orangem21
+    text_value: "@orangemio"
+    text_value_url: https://github.com/orangemio
   - type: weibo
     icon: icon-weibo
     text_key: 微博
@@ -210,8 +210,8 @@ about:
   - type: mail
     icon: icon-mail
     text_key: Gmail
-    text_value: "orangemtony@gmail.com"
-    text_value_url: mailto:orangemtony@gmail.com
+    text_value: "i@orangem.io"
+    text_value_url: mailto:i@orangem.io
   - type: location
     icon: icon-location
     text_value: 北京
