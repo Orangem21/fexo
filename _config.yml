@@ -100,7 +100,7 @@ post:
   showToc: true # true|false
   showComments: true
   open_in_new_window: false
-  show_prev_next: true
+  show_prev_next: false
 
 # =========================================================
 # 个性化设置
