@@ -144,12 +144,12 @@ changyan:
 
 # gitalk评论组件，把下面的配置换成你的，官方文档: https://gitalk.github.io/
 gitalk:
-  enable: true # 如果使用 gitalk，请设置改之为true
-  clientID: 87c8c720b879c7a4bc58
-  clientSecret: 25acd078be5aebb20cd217cdb7467b81a2951d43
-  repo: blog-comment
-  owner: orangemio
-  admin: orangemio
+  enable: false # 如果使用 gitalk，请设置改之为true
+  clientID: 
+  clientSecret: 
+  repo: 
+  owner: 
+  admin: 
 
 
 # gitment comment service
