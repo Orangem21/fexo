@@ -10,7 +10,7 @@ avatar: /images/avatar.jpeg
 favicon: /favicon.ico
 
 # For seo
-keywords: 前端,设计,nodejs,JavaScript,Blockchain,Solidity,Ethereum
+keywords: 前端,nodejs,JavaScript,Blockchain,Solidity,Ethereum,Nervos
 
 home_nav:
   - name: Blog
@@ -20,10 +20,10 @@ home_nav:
     url: /project/
     target_blank: false #在新页面打开
   - name: Github
-    url: https://github.com/orangem21
+    url: https://github.com/orangemio
     target_blank: true
   - name: Twitter
-    url: https://twitter.com/orangemto
+    url: https://twitter.com/orangem_io
     target_blank: true
 
 # config page nav
